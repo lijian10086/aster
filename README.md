@@ -99,3 +99,6 @@ If you find this project helpful for your research, please cite the following pa
 ```
 
 IMPORTANT NOTICE: Although this software is licensed under MIT, our intention is to make it free for academic research purposes. If you are going to use it in a product, we suggest you [contact us](xbai@hust.edu.cn) regarding possible patent issues.
+
+## 李剑备注：
+- https://www.cnblogs.com/lillylin/p/9315180.html  【论文翻译】2018注意力矫正文字识别ASTER
